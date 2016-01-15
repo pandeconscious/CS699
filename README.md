@@ -1,2 +1,2 @@
 # CS699
-Software Lab course
+ IIT Bombay Software Lab course
